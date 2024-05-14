@@ -1,1 +1,1 @@
-# goit-qaa-hw-1
+# goit-qaa-cypress
